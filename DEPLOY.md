@@ -1,6 +1,10 @@
 # UniWAM project page deployment
 
-This repository publishes the static site from the `main` branch root through GitHub Pages.
+This repository contains the static site at the `main` branch root.
+
+## First-time setup
+
+Open `https://github.com/Fysics-AI/uniwam.github.io/settings/pages`. Under **Build and deployment**, choose **Deploy from a branch**, select `main` and `/(root)`, then click **Save**. Wait for GitHub to finish building before opening the published address below.
 
 Published address: `https://fysics-ai.github.io/uniwam.github.io/`
 
