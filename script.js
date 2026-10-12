@@ -85,9 +85,10 @@ document.addEventListener('keydown', (event) => { if (event.key === 'Escape' && 
 
 const citation = `@article{xue2026uniwam,
   title   = {UniWAM: Unified Mobile Manipulation via Mixed-Stream World-Action Modeling and Manipulation Anchor Pose Supervision},
-  author  = {Xue, Wei and Liu, Keliang and Cui, Mingzhang and Xie, Jinhua and Hou, Jianan and Lu, Jingcheng and Wang, Lintao and Qiu, Kaixiang and Liu, Yizhou and Ye, Xinghai and Han, Jinghang and Li, Mingcheng and Gu, Jie and Wang, Shunli and Yang, Dingkang and Zhang, Lihua},
+  author  = {Xue, Wei and Liu, Keliang and Cui, Mingzhang and Xie, Jinhua and Wei, Jinjie and Hou, Jianan and Lu, Jingcheng and Wang, Lintao and Qiu, Kaixiang and Liu, Yizhou and Ye, Xinghai and Han, Jinghang and Li, Mingcheng and Gu, Jie and Wang, Shunli and Zhang, Lihua and Yang, Dingkang},
   year    = {2026},
-  note    = {Technical report}
+  journal = {arXiv preprint arXiv:2609.39388},
+  url     = {https://arxiv.org/abs/2609.39388}
 }`;
 const copyButton = document.querySelector('#copy-citation');
 copyButton?.addEventListener('click', async () => {
