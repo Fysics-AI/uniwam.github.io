@@ -5,7 +5,7 @@
     "category_label": "Pure manipulation",
     "label": "Industrial conveyor sorting",
     "platform": "",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/manipulation/manipulation-01.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/manipulation/manipulation-01.mp4",
     "poster": "assets/demos/manipulation/manipulation-01.jpg"
   },
   {
@@ -14,7 +14,7 @@
     "category_label": "Pure manipulation",
     "label": "Insert test tubes into the blue metal and orange plastic racks",
     "platform": "",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/manipulation/manipulation-02.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/manipulation/manipulation-02.mp4",
     "poster": "assets/demos/manipulation/manipulation-02.jpg"
   },
   {
@@ -23,7 +23,7 @@
     "category_label": "Pure manipulation",
     "label": "Place medicine boxes in the green basket and industrial parts in the blue basket",
     "platform": "",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/manipulation/manipulation-03.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/manipulation/manipulation-03.mp4",
     "poster": "assets/demos/manipulation/manipulation-03.jpg"
   },
   {
@@ -32,7 +32,7 @@
     "category_label": "Pure manipulation",
     "label": "Industrial conveyor object handling",
     "platform": "",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/manipulation/manipulation-04.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/manipulation/manipulation-04.mp4",
     "poster": "assets/demos/manipulation/manipulation-04.jpg"
   },
   {
@@ -41,7 +41,7 @@
     "category_label": "Pure manipulation",
     "label": "Stack six cups into a three-layer pyramid",
     "platform": "",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/manipulation/manipulation-05.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/manipulation/manipulation-05.mp4",
     "poster": "assets/demos/manipulation/manipulation-05.jpg"
   },
   {
@@ -50,7 +50,7 @@
     "category_label": "Pure manipulation",
     "label": "Place objects into a tray",
     "platform": "",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/manipulation/manipulation-06.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/manipulation/manipulation-06.mp4",
     "poster": "assets/demos/manipulation/manipulation-06.jpg"
   },
   {
@@ -59,7 +59,7 @@
     "category_label": "Pure manipulation",
     "label": "Place objects into a tray",
     "platform": "",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/manipulation/manipulation-07.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/manipulation/manipulation-07.mp4",
     "poster": "assets/demos/manipulation/manipulation-07.jpg"
   },
   {
@@ -68,7 +68,7 @@
     "category_label": "Pure manipulation",
     "label": "Prepare coffee",
     "platform": "",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/manipulation/manipulation-08.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/manipulation/manipulation-08.mp4",
     "poster": "assets/demos/manipulation/manipulation-08.jpg"
   },
   {
@@ -77,7 +77,7 @@
     "category_label": "Pure manipulation",
     "label": "Industrial conveyor object handling",
     "platform": "",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/manipulation/manipulation-09.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/manipulation/manipulation-09.mp4",
     "poster": "assets/demos/manipulation/manipulation-09.jpg"
   },
   {
@@ -86,7 +86,7 @@
     "category_label": "Pure manipulation",
     "label": "Pick up and place anything",
     "platform": "",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/manipulation/manipulation-10.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/manipulation/manipulation-10.mp4",
     "poster": "assets/demos/manipulation/manipulation-10-handover.jpg",
     "description": "Pick up and place objects, and hand the held object to a person when they extend a hand.",
     "featured": true,
@@ -101,7 +101,7 @@
     "label": "Long-horizon coffee preparation",
     "description": "Complete a long-horizon coffee-making task.",
     "platform": "",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/manipulation/manipulation-11.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/manipulation/manipulation-11.mp4",
     "poster": "assets/demos/manipulation/manipulation-11.jpg",
     "featured": true,
     "feature_order": 1,
@@ -114,7 +114,7 @@
     "category_label": "Mobile manipulation",
     "label": "Sort colored cubes into trays",
     "platform": "AgileX Cobot Magic",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/mobile/mobile-01.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/mobile/mobile-01.mp4",
     "poster": "assets/demos/mobile/mobile-01.jpg"
   },
   {
@@ -123,7 +123,7 @@
     "category_label": "Mobile manipulation",
     "label": "Place items in the storage box",
     "platform": "AgileX Cobot Magic",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/mobile/mobile-02.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/mobile/mobile-02.mp4",
     "poster": "assets/demos/mobile/mobile-02.jpg"
   },
   {
@@ -132,7 +132,7 @@
     "category_label": "Mobile manipulation",
     "label": "Clear cups onto the tray",
     "platform": "AgileX Cobot Magic",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/mobile/mobile-03.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/mobile/mobile-03.mp4",
     "poster": "assets/demos/mobile/mobile-03.jpg"
   },
   {
@@ -141,7 +141,7 @@
     "category_label": "Pure navigation",
     "label": "Navigate to the front of the TV cabinet",
     "platform": "AGX",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/navigation/navigation-01.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/navigation/navigation-01.mp4",
     "poster": "assets/demos/navigation/navigation-01.jpg"
   },
   {
@@ -150,7 +150,7 @@
     "category_label": "Pure navigation",
     "label": "Navigate to the front of the table",
     "platform": "AGX",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/navigation/navigation-02.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/navigation/navigation-02.mp4",
     "poster": "assets/demos/navigation/navigation-02.jpg"
   },
   {
@@ -159,7 +159,7 @@
     "category_label": "Pure navigation",
     "label": "Navigate to the front of the wall-side cabinet",
     "platform": "AGX",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/navigation/navigation-03.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/navigation/navigation-03.mp4",
     "poster": "assets/demos/navigation/navigation-03.jpg"
   },
   {
@@ -168,7 +168,7 @@
     "category_label": "Pure navigation",
     "label": "Navigate to the front of the tool cabinet",
     "platform": "AGX",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/navigation/navigation-04.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/navigation/navigation-04.mp4",
     "poster": "assets/demos/navigation/navigation-04.jpg"
   },
   {
@@ -177,7 +177,7 @@
     "category_label": "Pure navigation",
     "label": "Navigate to the front of the water dispenser",
     "platform": "AGX",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/navigation/navigation-05.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/navigation/navigation-05.mp4",
     "poster": "assets/demos/navigation/navigation-05.jpg"
   },
   {
@@ -186,7 +186,7 @@
     "category_label": "Pure navigation",
     "label": "Navigate to the front of the potted plant",
     "platform": "AGX",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/navigation/navigation-06.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/navigation/navigation-06.mp4",
     "poster": "assets/demos/navigation/navigation-06.jpg"
   },
   {
@@ -195,7 +195,7 @@
     "category_label": "Pure navigation",
     "label": "Navigate to the front of the black side cabinet",
     "platform": "AGX",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/navigation/navigation-07.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/navigation/navigation-07.mp4",
     "poster": "assets/demos/navigation/navigation-07.jpg"
   },
   {
@@ -204,7 +204,7 @@
     "category_label": "Pure navigation",
     "label": "Navigate to the front of the black leather sofa",
     "platform": "AGX",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/navigation/navigation-08.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/navigation/navigation-08.mp4",
     "poster": "assets/demos/navigation/navigation-08.jpg"
   },
   {
@@ -213,7 +213,7 @@
     "category_label": "Pure navigation",
     "label": "Navigate to the front of the sofa",
     "platform": "AGX",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/navigation/navigation-09.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/navigation/navigation-09.mp4",
     "poster": "assets/demos/navigation/navigation-09.jpg"
   },
   {
@@ -222,7 +222,7 @@
     "category_label": "Pure navigation",
     "label": "Navigate to the front of the round side table",
     "platform": "AGX",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/navigation/navigation-10.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/navigation/navigation-10.mp4",
     "poster": "assets/demos/navigation/navigation-10.jpg"
   },
   {
@@ -231,7 +231,7 @@
     "category_label": "Pure navigation",
     "label": "Navigate to the front of the sink",
     "platform": "AGX",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/navigation/navigation-11.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/navigation/navigation-11.mp4",
     "poster": "assets/demos/navigation/navigation-11.jpg"
   },
   {
@@ -240,7 +240,7 @@
     "category_label": "Pure navigation",
     "label": "Navigate to the front of the countertop",
     "platform": "AGX",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/navigation/navigation-12.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/navigation/navigation-12.mp4",
     "poster": "assets/demos/navigation/navigation-12.jpg"
   },
   {
@@ -249,7 +249,7 @@
     "category_label": "Pure navigation",
     "label": "Navigate to the front of the humanoid robot",
     "platform": "AGX",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/navigation/navigation-13.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/navigation/navigation-13.mp4",
     "poster": "assets/demos/navigation/navigation-13.jpg"
   },
   {
@@ -258,7 +258,7 @@
     "category_label": "Pure navigation",
     "label": "Navigate to the front of the tool cabinet",
     "platform": "G2",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/navigation/navigation-14.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/navigation/navigation-14.mp4",
     "poster": "assets/demos/navigation/navigation-14.jpg"
   },
   {
@@ -267,7 +267,7 @@
     "category_label": "Pure navigation",
     "label": "Navigate to the front of the wall-side cabinet",
     "platform": "G2",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/navigation/navigation-15.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/navigation/navigation-15.mp4",
     "poster": "assets/demos/navigation/navigation-15.jpg"
   },
   {
@@ -276,7 +276,7 @@
     "category_label": "Pure navigation",
     "label": "Navigate to the front of the TV cabinet",
     "platform": "G2",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/navigation/navigation-16.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/navigation/navigation-16.mp4",
     "poster": "assets/demos/navigation/navigation-16.jpg"
   },
   {
@@ -285,7 +285,7 @@
     "category_label": "Pure navigation",
     "label": "Navigate to the front of the table",
     "platform": "G2",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/navigation/navigation-17.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/navigation/navigation-17.mp4",
     "poster": "assets/demos/navigation/navigation-17.jpg"
   },
   {
@@ -294,7 +294,7 @@
     "category_label": "Pure navigation",
     "label": "Navigate to the front of the water dispenser",
     "platform": "G2",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/navigation/navigation-18.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/navigation/navigation-18.mp4",
     "poster": "assets/demos/navigation/navigation-18.jpg"
   },
   {
@@ -303,7 +303,7 @@
     "category_label": "Pure navigation",
     "label": "Navigate to the front of the potted plant",
     "platform": "G2",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/navigation/navigation-19.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/navigation/navigation-19.mp4",
     "poster": "assets/demos/navigation/navigation-19.jpg"
   },
   {
@@ -312,7 +312,7 @@
     "category_label": "Pure navigation",
     "label": "Navigate to the front of the sofa",
     "platform": "G2",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/navigation/navigation-20.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/navigation/navigation-20.mp4",
     "poster": "assets/demos/navigation/navigation-20.jpg"
   },
   {
@@ -321,7 +321,7 @@
     "category_label": "Pure navigation",
     "label": "Navigate to the front of the humanoid robot",
     "platform": "G2",
-    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/main/assets/demos/navigation/navigation-21.mp4",
+    "video": "https://huggingface.co/datasets/KeliangLiu2025/UniWAM/resolve/98887c73b6ba57dae2f208433fc234234d4eae12/assets/demos-watermarked/navigation/navigation-21.mp4",
     "poster": "assets/demos/navigation/navigation-21.jpg"
   }
 ]
